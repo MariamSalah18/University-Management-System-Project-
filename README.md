@@ -30,6 +30,6 @@ By enforcing prerequisite requirements, the system ensures that students can onl
 | **Mariam Reda** | login student,remove student,remove courses
 | **Mariam El-gohary** | View available courses,View course details ,Register ,View student details (admin),Fill/display feedback 
 | **Dina Tarek** | View Students Grades And CGPA,View all student courses
-| **Shahd Mahmud** | Login Admin, View Student Details
+| **Shahd Mahmud** | Login Admin, View Student In A Specific Course
 | **Shahd Hassan** | Add course,Edit course                           
 | **Doha Adel** | Add student,Add grades
