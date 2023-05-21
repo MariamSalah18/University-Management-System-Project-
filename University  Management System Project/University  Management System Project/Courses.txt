@@ -1,0 +1,168 @@
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+No pre-required courses
+3
+Walaa Khaled
+Calculus 1
+BSC122
+Requirement
+500
+No pre-required courses
+3
+Doaa Ezzat
+Physics 1
+BSC121
+Requirement
+550
+No pre-required courses
+3
+Salsabil Amin
+English
+HUM110
+elective
+300
+No pre-required courses
+1
+Aml Ahmed
+Probability&Statistical
+BSC123
+Requirement
+650
+No pre-required courses
+3
+Hassan Ramdan
+Physics 2
+BSC126
+Requirement
+900
+Physics 1
+3
+Hassan Ramdan
+Structured Programming
+CIS150
+Requirement
+800
+Introduction to Computer Sciences
+3
+Salsabil Amin
+Calculus 2
+BSC125
+Requirement
+600
+Calculus 1
+3
+Mohamed Abdel-Aal
+Object Oriented Programming
+CIS250
+Requirement
+600
+Structured Programming
+3
+Mohamed Mabrouk
+Database
+CIS280
+Requirement
+400
+Structured Programming
+3
+Huda Amin
+Electronics
+CIS124
+Requirement
+730
+Physics I
+4
+Noha Abdel Sabour
+Report Writing
+HUM113
+elective
+320
+No pre-required courses
+2
+Hanan Hindy
+Logic Design
+CIS260
+Requirement
+560
+Physics 1
+3
+Nadia Sameh
+Statistical Analysis
+CIS240
+Requirement
+643
+Probability&Statistical
+3
+Safaa Ramy
+Linear Algebra
+BSC225
+Requirement
+405
+No pre-required courses
+3
+Mohamed Hassan
+Operations Research
+CIS230
+Requirement
+310
+No pre-required courses
+3
+Doaa Hany
+Computer Organization & Architecture
+CIS220
+Requirement
+590
+Logic Design
+3
+Hanen Hamdy
+Data Structure
+CIS270
+Requirement
+450
+Structured Programming,English
+3
+Wedad Hussein
+Artifical Intelligence
+CIS243
+Requirement
+450
+Structured Programming
+3
+Omar Ahmed
+Operating Systems
+CIS353
+Requirement
+700
+Computer Organization & Architecture
+3
+Ahmed Salah
+Computer Networks
+CIS365
+Requirement
+540
+Introduction to Computer Sciences
+3
+Adam Emad
+Software Engineering
+CIS380
+Requirement
+900
+Structured Programming
+3
+Dina Youssef
+Analysis & Design of Algorithms
+CIS340
+Requirement
+870
+Structured Programming
+3
+Ahmed Salah
+NLP
+CIS101
+Requirement
+111
+No pre-required courses
+3
+Ahmed

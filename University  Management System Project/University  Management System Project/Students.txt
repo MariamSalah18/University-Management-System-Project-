@@ -1,0 +1,519 @@
+Mariam Reda 
+Calculus 2
+BSC125
+Requirement
+600
+0
+Calculus 1
+3
+Mohamed Abdel-Aal
+Probability&Statistical
+BSC123
+Requirement
+650
+0
+No pre-required courses
+3
+Hassan Ramdan
+Artifical Intelligence
+CIS243
+Requirement
+450
+0
+Structured Programming
+3
+Omar Ahmed
+
+202117001
+202117001@cis.asu.edu.eg
+passmariam
+21
+Calculus 1
+BSC122
+Requirement
+500
+85
+No pre-required courses
+3
+Mohamed Abdel-Aal
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+70
+No pre-required courses
+3
+Walaa Khaled
+Physics 1
+BSC121
+Requirement
+550
+88
+No pre-required courses
+3
+Salsabil Amin
+Structured Programming
+CIS150
+Requirement
+800
+90
+No pre-required courses
+3
+Salsabil Amin
+
+2023
+3.49
+Mariam Salah 
+Calculus 1
+BSC122
+Requirement
+500
+0
+No pre-required courses
+3
+Mohamed Abdel-Aal
+Object Oriented Programming
+CIS250
+Requirement
+600
+0
+Structured Programming
+3
+Mohamed Mabrouk
+Database
+CIS280
+Requirement
+400
+0
+Structured Programming
+3
+Huda Amin
+
+202117002
+202117002@cis.asu.edu.eg
+passmariam1
+21
+Probability&Statistical
+BSC123
+Requirement
+650
+90
+No pre-required courses
+3
+Hassan Ramdan
+Structured Programming
+CIS150
+Requirement
+800
+87
+No pre-required courses
+3
+Salsabil Amin
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+89
+No pre-required courses
+3
+Walaa Khaled
+English
+HUM110
+elective
+300
+81
+No pre-required courses
+2
+Aml Ahmed
+
+2023
+3.1
+Mariam Elgohary
+Structured Programming
+CIS150
+Requirement
+800
+0
+No pre-required courses
+3
+Salsabil Amin
+Calculus 2
+BSC125
+Requirement
+600
+0
+Calculus 1
+3
+Mohamed Abdel-Aal
+
+202117003
+202117003@cis.asu.edu.eg
+passmariam2
+21
+Human Rights
+HUM119
+elective
+300
+100
+No pre-required courses
+2
+Ali Reda
+Physics 1
+BSC121
+Requirement
+550
+85
+No pre-required courses
+3
+Salsabil Amin
+Electronics
+CIS124
+Requirement
+730
+75
+Physics 1
+4
+Noha Abdel Sabour
+Calculus 1
+BSC122
+Requirement
+500
+81
+No pre-required courses
+3
+Mohamed Abdel-Aal
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+84
+No pre-required courses
+3
+Walaa Khaled
+
+2023
+3.5
+damon salvatore
+
+202117004
+202117004@cis.asu.edu.eg
+student123
+14
+Operations Research
+CIS230
+Requirement
+310
+50
+No pre-required courses
+3
+Doaa Hany
+Report Writing
+HUM113
+elective
+320
+80
+No pre-required courses
+2
+Hanan Hindy
+
+2023
+1.28
+Elena Gilbert
+Linear Algebra
+BSC225
+Requirement
+405
+0
+No pre-required courses
+3
+Mohamed Hassan
+Operations Research
+CIS230
+Requirement
+310
+50
+No pre-required courses
+3
+Doaa Hany
+Report Writing
+HUM113
+elective
+320
+80
+No pre-required courses
+2
+Hanan Hindy
+
+202117005
+202117005@cis.asu.edu.eg
+student
+14
+
+2023
+0
+enzo
+Operations Research
+CIS230
+Requirement
+310
+0
+No pre-required courses
+3
+Doaa Hany
+Human Rights
+HUM119
+elective
+300
+0
+No pre-required courses
+2
+Ali Reda
+Physics 1
+BSC121
+Requirement
+550
+0
+No pre-required courses
+3
+Salsabil Amin
+
+202117006
+202117006@cis.asu.edu.eg
+student
+14
+
+2023
+0
+bonnie
+Calculus 1
+BSC122
+Requirement
+500
+0
+No pre-required courses
+3
+Doaa Ezzat
+Report Writing
+HUM113
+elective
+320
+0
+No pre-required courses
+2
+Hanan Hindy
+
+202117007
+202117007@cis.asu.edu.eg
+student
+14
+
+2023
+0
+mohamed ahmed
+Calculus 1
+BSC122
+Requirement
+500
+0
+No pre-required courses
+3
+Doaa Ezzat
+Report Writing
+HUM113
+elective
+320
+0
+No pre-required courses
+2
+Hanan Hindy
+
+202117008
+202117008@cis.asu.edu.eg
+student
+14
+
+2023
+0
+Amany Abdelaal
+Operations Research
+CIS230
+Requirement
+310
+0
+No pre-required courses
+3
+Doaa Hany
+Human Rights
+HUM119
+elective
+300
+0
+No pre-required courses
+2
+Ali Reda
+Physics 1
+BSC121
+Requirement
+550
+0
+No pre-required courses
+3
+Salsabil Amin
+
+202117009
+202117009@cis.asu.edu.eg
+student
+14
+
+2023
+0
+Klaus Mikaelson
+Physics 1
+BSC121
+Requirement
+550
+0
+No pre-required courses
+3
+Salsabil Amin
+Probability&Statistical
+BSC123
+Requirement
+650
+0
+No pre-required courses
+3
+Hassan Ramdan
+English 
+HUM110
+elective
+300
+0
+No pre-required courses
+2
+Aml Ahmed
+
+202117010
+202117010@cis.asu.edu.eg
+pass202117010
+14
+
+2023
+0
+omar
+Linear Algebra
+BSC225
+Requirement
+405
+0
+No pre-required courses
+3
+Mohamed Hassan
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+0
+No pre-required courses
+3
+Walaa Khaled
+
+202117011
+202117011@cis.asu.edu.eg
+pass202117011
+14
+
+2023
+0
+Jack Robert
+Report Writing
+HUM113
+elective
+320
+0
+No pre-required courses
+2
+Hanan Hindy
+Operations Research
+CIS230
+Requirement
+310
+0
+No pre-required courses
+3
+Doaa Hany
+Introduction to Computer Sciences
+CIS160
+Requirement
+700
+0
+No pre-required courses
+3
+Walaa Khaled
+
+202117014
+202117012@cis.asu.edu.eg
+passjack
+14
+
+2023
+0
+Rana Mohamed
+Calculus 1
+BSC122
+Requirement
+500
+0
+No pre-required courses
+3
+Doaa Ezzat
+Probability&Statistical
+BSC123
+Requirement
+650
+0
+No pre-required courses
+3
+Hassan Ramdan
+
+2022170000
+2022170000@cis.asu.edu.eg
+pass2022170000
+14
+
+2023
+0
+Bishoy Victor
+
+2022170002
+2022170002@cis.asu.edu.eg
+12345
+14
+ML
+CIS
+Elective
+100
+100
+No pre-required courses
+2
+Ali 
+Report Writing
+HUM113
+elective
+320
+100
+No pre-required courses
+2
+Hanan Hindy
+
+2023
+4
+ziad omar
+
+2022170003
+2022170003@cis.asu.edu.eg
+pass2022170003
+14
+
+2023
+0
