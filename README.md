@@ -26,10 +26,10 @@ By enforcing prerequisite requirements, the system ensures that students can onl
 
 | Name | Responsible for 
 | :----: | :-----------------------------------------------:
-| **Mariam Salah** | Edit data ,Filter Courses/Filter Student Courses ,Courses Report ,Student Menu,Read/Write from files   .
-| **Mariam Reda** | login student,remove student,remove courses,Read/Write from files.
-| **Mariam El-gohary** | View available courses,View course details ,Register ,View student details (admin),Fill/display feedback .
-| **Dina Tarek** | View Students Grades And CGPA,View all student courses.
-| **Shahd Mahmud** | Login Admin, View Student In A Specific Course.
-| **Shahd Hassan** | Add course,Edit course,Read/Write from files.                         
-| **Doha Adel** | Add student,Add grades.
+| **Mariam Salah** | Edit data ,Filter Courses/Filter Student Courses ,Courses Report ,Student Menu,Read/Write from files   
+| **Mariam Reda** | login student,remove student,remove courses,Read/Write from files
+| **Mariam El-gohary** | View available courses,View course details ,Register ,View student details (admin),Fill/display feedback 
+| **Dina Tarek** | View Students Grades And CGPA,View all student courses
+| **Shahd Mahmud** | Login Admin, View Student In A Specific Course
+| **Shahd Hassan** | Add course,Edit course,Read/Write from files                        
+| **Doha Adel** | Add student,Add grades
